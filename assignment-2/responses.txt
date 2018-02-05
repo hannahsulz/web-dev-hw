@@ -1,0 +1,22 @@
+## Responses
+
+- One way that data travels on the internet is through packets.  The data is
+broken up into tiny bits carried in packets that then travel through routers.
+The data may take different routes on the journey and are reassembled at the
+final destination.
+
+- A computer's IP address is a set of numbers that is essentially its "address"
+so that if a message is sent to another computer, that computer recognizes the
+origin address if a message needs to be sent back.  The DNS, or Domain Name System,
+associates domain names with IP addresses and allows your computer to find the
+IP addresses associated with certain websites so that it is able to connect to
+its destination on the internet.
+
+- Cookies are small files that are stored on a user's computer and store a small
+amount of data specific to a client or website.
+
+- The three basic parts of a URL, or Uniform Resource Locator, are the protocol,
+ the domain name, and the path.  The protocol's purpose is to declare how the
+ web browser should communicate with the web server (the most common being http).
+ The domain name is a unique reference that identifies a website on the internet.
+ Finally, the path typically refers to a file or directory on the web server.
