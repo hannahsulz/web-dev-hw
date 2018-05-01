@@ -5,12 +5,28 @@ body {
 h1 {
   font-family: 'Skranji', sans-serif;
   font-weight: normal;
-  font-size: 60pt;
+  font-size: 40pt;
 }
 
 h3{
   font-family: 'Skranji', sans-serif;
   font-weight: normal;
   font-style: italic;
-  font-size: 20pt;
+  font-size: 18pt;
+  color: #cfe56e;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family: 'Skranji', sans-serif;
+  font-weight: normal;
+  font-style: bold;
+  font-size: 18pt;
+  text-decoration: underline;
+}
+
+h5 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 16pt;
 }
