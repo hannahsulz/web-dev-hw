@@ -3,30 +3,60 @@ body {
 }
 
 h1 {
-  font-family: 'Skranji', sans-serif;
+  font-family: 'Skranji', cursive;
   font-weight: normal;
   font-size: 40pt;
+  text-align: center;
 }
 
 h3{
-  font-family: 'Skranji', sans-serif;
+  font-family: 'Skranji', cursive;
   font-weight: normal;
   font-style: italic;
   font-size: 18pt;
-  color: #cfe56e;
+  color: #d7e25a;
   text-transform: uppercase;
+  text-align: center;
 }
 
 h4 {
-  font-family: 'Skranji', sans-serif;
-  font-weight: normal;
-  font-style: bold;
+  font-family: 'Skranji', cursive;
+  font-weight: bold;
   font-size: 18pt;
   text-decoration: underline;
+  letter-spacing: 0.01em;
+}
+
+h4:hover {
+  color: #67e9f7;
 }
 
 h5 {
+  font-family: 'Yantramanav', sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 16pt;
+}
+
+.container {
+      width: 1200px;
+      height: 500px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #c4c5c6;
+      background-color: #f0d4f7;
+    }
+
+p {
+  font-family: 'Yantramanav', sans-serif;
+  font-weight: normal;
+  font-size: 12pt;
+
+}
+
+.link {
+  font-family: 'Skranji', cursive;
+  font-size: 30pt;
+  color: #e73bf7;
+  text-align: center;
 }
