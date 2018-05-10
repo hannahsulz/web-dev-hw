@@ -1,0 +1,142 @@
+.background-container {
+  background-color: #FDFDF1;
+  height: 2000px;
+  width: 50%;
+  z-index: 1;
+  position: relative;
+}
+
+.woman-image-container {
+  padding-top: 20px;
+  padding-left: 15px;
+  height: 500px;
+  width: 200px;
+  position: relative;
+  z-index: 8;
+}
+
+.title-container{
+  height: 150px;
+  width: 350px;
+  position: absolute;
+  top: 5px;
+  left: 235px;
+  z-index: 3;
+}
+
+.filter-queen-container{
+  background-color: #303F44;
+  height: 45px;
+  width: 190px;
+  position: absolute;
+  top: 140px;
+  left: 235px;
+  z-index: 4;
+  text-align: center;
+}
+
+.p-container {
+  width: 250px;
+  position: absolute;
+  top: 190px;
+  right: 225px;
+  z-index: 5;
+  background-color: #FDFDF1;
+}
+
+.icon-inside {
+  position: absolute;
+  top: 250px;
+  right: 425px;
+  z-index: 6;
+}
+
+.icon-outside {
+  position: absolute;
+  top: 310px;
+  right: 425px;
+  z-index: 7;
+}
+
+.icon-wastebasket {
+  position: absolute;
+  top: 375px;
+  right: 425px;
+  z-index: 7;
+}
+
+.scene {
+  position: absolute;
+  top: 500px;
+  z-index: 2;
+}
+
+.floor-cleaner {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 650px;
+  z-index: 9;
+}
+
+.attachment {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 1000px;
+  z-index: 9;
+}
+
+.filter-queen {
+  position: absolute;
+  top: 850px;
+  z-index: 10;
+}
+
+.box1 {
+  position: absolute;
+  top: 230px;
+  left: 325px;
+  z-index: 11;
+}
+
+.box2 {
+  position: absolute;
+  top: 295px;
+  left: 325px;
+  z-index: 11;
+}
+
+.box3 {
+  position: absolute;
+  top: 365px;
+  left: 325px;
+  z-index: 11;
+}
+
+h1 {
+  font-family: 'Knewave', cursive;
+font-size: 25pt;
+}
+
+h2 {
+  line-height: .1em;
+  font-style: italic;
+  color: #FDFDF1;
+  text-transform: uppercase;
+  font-family: 'Francois One', sans-serif;
+  font-size: 20pt;
+}
+
+h3 {
+  font-family: 'Knewave', cursive;
+  font-size: 18pt;
+  color: #ED1701;
+  line-height: .01em;
+}
+
+p, pre {
+  color: #303F44;
+  font-family: 'Francois One', sans-serif;
+  font-size: 12pt;
+}
