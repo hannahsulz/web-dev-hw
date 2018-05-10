@@ -1,6 +1,6 @@
 .background-container {
   background-color: #FDFDF1;
-  height: 2000px;
+  height: 1325px;
   width: 50%;
   z-index: 1;
   position: relative;
@@ -145,11 +145,13 @@
   top: 970px;
   left: 275px;
   z-index: 12;
+  padding: 0.5em;
 }
 
 h1 {
   font-family: 'Knewave', cursive;
 font-size: 25pt;
+margin: 0.1em;
 }
 
 h2 {
@@ -170,6 +172,6 @@ h3 {
 
 p, pre {
   color: #303F44;
-  font-family: 'Francois One', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-size: 12pt;
 }
